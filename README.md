@@ -1,16 +1,14 @@
 # Hi 👋, I'm Alexandre Abreu Silva
 
-Análise e Desenvolvimento de Sistemas no Centro Universitário - Newton Paiva;
-Técnico em Mecatrônica - Centro de Treinando e Desenvolvimento da Insdustria 4.0 - Senai Contagem;
-Técnico em Redes de Computadores - Centro de Treinamento e Desenvolvimento da Industria 4.0 - Senai Contagem;
+ - Análise e Desenvolvimento de Sistemas no Centro Universitário - Newton Paiva;
+ - Técnico em Mecatrônica - Centro de Treinando e Desenvolvimento da Insdustria 4.0 - Senai Contagem;
+ - Técnico em Redes de Computadores - Centro de Treinamento e Desenvolvimento da Industria 4.0 - Senai Contagem;
 
-
+##  🙋🏽‍♂️Fatos sobre mim
+ 
  - 🏡 Contagem - MG.
  - 💻 DevOps.
  - 🤖 Arduíno Maker.
-
-##  🙋🏽‍♂️Fatos sobre mim
-
  - 🎓 Passo meu tempo resolvendo desafios e construindo projetos.
  - 👦 Desde pequeno sou apaixonado por tecnologia e então venho evoluindo cada vez mais.
 
