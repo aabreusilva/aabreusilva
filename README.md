@@ -9,8 +9,6 @@
  - 🏡 Contagem - MG.
  - 💻 DevOps.
  - 🤖 Arduíno Maker.
- - 🎓 Passo meu tempo resolvendo desafios e construindo projetos.
- - 👦 Desde pequeno sou apaixonado por tecnologia e então venho evoluindo cada vez mais.
 
 ## 👨🏻‍🔧 Ferramentas
 
